@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdi554&show_icons=true&locale=en&layout=compact" alt="majdi554" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=majdi554&" alt="majdi554" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=majdi554&" alt="majdi554" /> </p>
