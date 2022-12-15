@@ -1,19 +1,15 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Majdi Essid</h1>
 <h3 align="center">A Full stack Web Developer from Tunisia</h3>
-<br>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/jmanalus.gif"><br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majdi554&label=Profile%20views&color=0e75b6&style=flat" alt="majdi554" /> </p>
 
-- 🔭 I’m currently working on **Lucky Bet**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=majdi554&label=Profile%20views&color=0e75b6&style=flat" alt="majdi554" /> </p>
+
 
 - 🌱 I’m currently learning **NodeJS**
-
 - 👨‍💻 All of my projects are available at [https://majdiessid.tk/](https://majdiessid.tk/)
 
 - 💬 Ask me about **React.Js and Laravel**
 
-- 📫 How to reach me **essid.mohamed.majdi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/17InKlAhJCfidlHych2DUbg_MdeZGnPp9](https://drive.google.com/drive/u/0/folders/17InKlAhJCfidlHych2DUbg_MdeZGnPp9)
 
@@ -32,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdi554&show_icons=true&locale=en&layout=compact" alt="majdi554" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majdi554&" alt="majdi554" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=majdi554&" alt="majdi554" /></p>
